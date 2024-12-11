@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- res/drawable/button_square.xml -->
+    <shape xmlns:android="http://schemas.android.com/apk/res/android"
+        android:shape="rectangle">
+        <corners android:radius="0dp" /> <!-- Membuat sudut menjadi kotak -->
+        <solid android:color="#ffffff" /> <!-- Warna latar belakang -->
+    </shape>
+
+</selector>
